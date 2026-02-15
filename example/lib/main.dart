@@ -172,7 +172,7 @@ class _QrCodeExampleScreenState extends State<QrCodeExampleScreen> {
     return ChoiceChip(
       label: Text(label),
       selected: _darkColor == color,
-      selectedColor: color.withOpacity(0.3),
+      selectedColor: color.withValues(alpha: 0.3),
       onSelected: (selected) {
         if (selected) {
           setState(() {
