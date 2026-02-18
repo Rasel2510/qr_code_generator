@@ -1,7 +1,13 @@
+## 1.0.1
+
+### Changed
+- Updated README file for clarity and better instructions
+
 ## 1.0.0
 
-* Initial release
-* Generate QR codes with CustomPainter
-* Customizable colors (dark and light)
-* Adjustable size
-* Error handling for QR generation failures
+### Added
+- Initial stable release
+- Generate QR codes using CustomPainter
+- Customizable dark and light colors
+- Adjustable QR code size
+- Error handling for QR generation failures

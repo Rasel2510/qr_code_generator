@@ -57,7 +57,7 @@ DynamicQrPainterWidget(
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:dynamic_qr_code/dynamic_qr_code.dart';
+import 'package:qr_code_generator/qr_code_generator.dart';
 
 class QrCodeScreen extends StatelessWidget {
   @override

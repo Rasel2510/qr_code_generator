@@ -1,6 +1,6 @@
 name: qr_code_generator
 description: A Flutter package for generating dynamic QR codes with custom colors using CustomPainter.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/rasel2510/qr_code_generator
 repository: https://github.com/rasel2510/qr_code_generator
 
