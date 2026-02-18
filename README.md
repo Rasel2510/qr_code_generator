@@ -1,6 +1,9 @@
 # QR Code Generator
 
 A Flutter package for generating dynamic QR codes with custom colors using CustomPainter.
+<img src="assets/image.png" width="30%" />
+<img src="assets/image2.png" width="30%" />
+
 
 ## Features
 
@@ -16,7 +19,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  qr_code_generator: ^1.0.0
+  qr_code_generator: ^1.0.1
 ```
 
 Then run:
