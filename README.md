@@ -3,7 +3,7 @@
 A Flutter package for generating dynamic QR codes with custom colors, optional center images, and multiple styling options using CustomPainter.
 
 <p align="center">
-<img src="assets/image.png" width="30%">
+
 <img src="assets/image2.png" width="30%">
 <img src="assets/image3.png" width="30%">
 </p>
